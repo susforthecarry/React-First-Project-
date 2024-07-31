@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.active{
+    @apply border-white rounded-lg bg-[#1ABC9C]  p-3
+}
